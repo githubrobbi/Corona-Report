@@ -44,6 +44,9 @@ https://youtu.be/mCa0JXEwDEk
 
 These numbers can be adjusted for your region in the first few lines of the code.
 
+### Corona_Watch.py:
+This is not 100% working yet ... it monitors for changes in the GIt-PULL of the Johns Hopkins data and runs a report once a chnage is detected. Unfortunately there is still a little but to make it stop once in a while ...
+
 ### Security HASHES:
 
 Name: Corona.py
